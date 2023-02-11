@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-bar{
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 40px;
+    padding-top: 25px;
+}
+.nav-bar span{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.heading{
+    margin-left: 30px;
+    font-size: 50px;
+    font-weight: 400;
+}
+.paragraph{
+    margin-left: 30px;;
+}
+.btn{
+    margin-left: 30px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin-top: 36px;
+    font-size: 18px;
+}
+.heading-second{
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.image{
+    margin-left: 30px;
+    width: 750px;
+    height: 450px;
+}
+.ol_ul{
+    margin-left: 30px;
+}
+.ol_ul h2{
+    font-size: 40px;
+    font-weight: 400;
+}
